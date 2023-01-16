@@ -1,0 +1,126 @@
+{
+    "meta": {
+        "theme": "autumn"
+    },
+    "basics": {
+        "name": "Patrick Mirwald",
+        "label": "Developer",
+        "_image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+        "summary": "As an self-taught Full Stack web developer, I bring extensive knowledge and experience in building applications from concept to implementation. I have been intensively working on developing my own SaaS platform in the recent months, and now I am looking for new challenges in the IT industry. With my previous experience as an industrial electronics and successfully completed vocational training and technical college diploma, I bring solid knowledge in technical context.",
+        "_website": "https://lordajax.com",
+        "email": "p.mirwald@outlook.de",
+        "location": {
+            "city": "Ludwigshafen",
+            "countryCode": "DE"
+        },
+        "profiles": [
+            {
+                "url": "https://github.com/nvima",
+                "username": "nvima",
+                "network": "github"
+            }
+        ]
+    },
+    "work": [
+        {
+            "summary": "Delivery Plus is a SaaS platform similar to Shopify, which enables restaurants and delivery services to create and manage their own website and shop independently. What makes it unique is that it is fully scalable using cloud technology, without the need for manual setup. Delivery services can create and manage any number of shops at any time. There are several customizable designs available, the platform allows for language customization to meet the customers' preferences and it also supports customizable currencies, time zones and tax rates.",
+            "website": "https://www.delivery.plus",
+            "name": "Delivery+",
+            "position": "Founder & Cloud Engineer",
+            "startDate": "2021-10-01",
+            "_endDate": "2023-01-01",
+            "highlights": [
+                "Planning and implementation of a scalable SaaS platform",
+                "Data modeling for AWS NoSQL DynamoDB",
+                "Building the infrastructure with Terraform in the AWS environment",
+                "Programming the backend using serverless functions in Golang",
+                "Front-end development using Vue and Next",
+                "Integration of PayPal for subscription transactions handling"
+            ]
+        },
+        {
+            "summary": "The web agency specializes in creating CMS-based websites and provides professional solutions in web design, programming, and online marketing. It also provides customized programming solutions and comprehensive SEO services to enhance the functionality and visibility of its clients' websites.",
+            "_website": "",
+            "name": "Web Agency",
+            "position": "Magento / Wordpress Developer",
+            "startDate": "2019-07-31",
+            "endDate": "2020-05-31",
+            "highlights": [
+                "Development of automatic import functions for product data from existing systems",
+                "Creation, maintenance, and migration of CMS systems",
+                "Plugin development based on customer requirements",
+                "SEO optimization"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "keywords": [
+                "HTML / CSS / Javascript",
+                "Next",
+                "Vue"
+            ],
+            "_level": "Senior",
+            "name": "Frontend"
+        },
+        {
+            "keywords": [
+                "Node",
+                "PHP",
+                "Golang",
+                "SQL / NoSQL",
+                "Serverless"
+            ],
+            "_level": "Senior",
+            "name": "Backend"
+        },
+        {
+            "keywords": [
+                "AWS",
+                "Terraform"
+            ],
+            "_level": "Senior",
+            "name": "Devops"
+        },
+        {
+            "keywords": [
+                "Git"
+            ],
+            "_level": "Senior",
+            "name": "Tools"
+        }
+    ],
+    "_education": [
+        {
+            "endDate": "_",
+            "startDate": "_",
+            "area": "_",
+            "studyType": "_",
+            "institution": "_"
+        }
+    ],
+    "languages": [
+        {
+            "language": "German",
+            "fluency": "Native Speaker"
+        },
+        {
+            "language": "English",
+            "_fluency": "Moderat"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Developer Productivity"
+        },
+        {
+            "name": "Open Source"
+        }
+    ],
+    "_references": [
+        {
+            "reference": "_",
+            "name": "_"
+        }
+    ]
+}
